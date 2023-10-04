@@ -24,7 +24,7 @@ Coding: The art of improving programs and combining ideas in a better way
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/> 
 </a>
  <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/> 
+  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/mysqlworkbench_103806.png" title="mysql" alt="mysql" width="40" height="40"/> 
 </a>
 
  <a href="#" target="_blank" rel="noreferrer">
