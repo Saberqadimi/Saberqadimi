@@ -1,6 +1,10 @@
 
 <div style="text-align:center">
+<p dir="auto"><a href="https://visitcount.itsvg.in" rel="nofollow">
+ <img src="https://visitcount.itsvg.in/api?id=saberqadimi&amp;icon=5&amp;color=10" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=saberqadimi&amp;icon=5&amp;color=10" style="max-width: 100%;"></a></p>
 
+</div>
+<hr>
 <img src="https://i.giphy.com/media/12W5Sg2koWYnwA/giphy.webp" style="border-radius: 2pc;" alt="saberqadimi OverView">
 
 
@@ -18,7 +22,7 @@ Coding: The art of improving programs and combining ideas in a better way
 </a>
 
  <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" title="nodejs" alt="nodejs" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="nodejs" alt="nodejs" width="40" height="40"/> 
 </a>
  <a href="#" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/> 
@@ -53,14 +57,14 @@ Coding: The art of improving programs and combining ideas in a better way
 
 
  <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://camo.githubusercontent.com/faa52408def7e90dd8b2c84a09a62bf675ba11152395c61dae6a131458fbbae8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e7578746a732f6e7578746a732d69636f6e2e737667" title="nuxtjs" alt="nuxtjs" width="40" height="40"/> 
+  <img src="https://nuxt.com/assets/design-kit/icon-green.svg" title="nuxtjs" alt="nuxtjs" width="40" height="40"/> 
 </a>
  <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="postman" alt="postman" width="40" height="40"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREMG_tZiKdmmmTqO50-_sGfCj6fMGgb5uTA8ShYf3FKe48Cr6i8lch42d0TLMhlri3s2I&usqp=CAU" title="postman" alt="postman" width="40" height="40"/> 
 </a>
 
  <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" title="bootstrap" alt="bootstrap" width="40" height="40"/> 
 </a>
  <a href="#" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="html-css" alt="html-css" width="40" height="40"/> 
@@ -72,6 +76,5 @@ Coding: The art of improving programs and combining ideas in a better way
 ![](https://github-readme-stats.vercel.app/api?username=SaberQadimi&show_icons=true&theme=nightowl)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saberqadimi&layout=compact&theme=nightowl&hide=html,css&langs_count=6)
+<hr>
 
-
-</div>
