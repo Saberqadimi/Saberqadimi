@@ -72,9 +72,31 @@ Coding: The art of improving programs and combining ideas in a better way
 
 
 </p>
-  
-![](https://github-readme-stats.vercel.app/api?username=SaberQadimi&show_icons=true&theme=nightowl)
+# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saberqadimi&layout=compact&theme=nightowl&hide=html,css&langs_count=6)
-<hr>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SaberQadimi&show_icons=true&theme=nightowl" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=SaberQadimi&theme=nightowl&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔝 Top Languages:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaberQadimi&layout=compact&theme=nightowl&hide=html,css&langs_count=6" />
+
+---
+
+### 🏆 GitHub Trophies:
+<img src="https://github-profile-trophy.vercel.app/?username=SaberQadimi&theme=onedark&no-frame=false&no-bg=false&margin-w=10" />
+
+---
+
+### 👁️‍🗨️ Profile Visitors:
+[![](https://visitcount.itsvg.in/api?id=SaberQadimi&icon=0&color=0)](https://visitcount.itsvg.in)
 
