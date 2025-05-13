@@ -10,6 +10,8 @@
 
 # About me
 
+![Profile Badge](https://img.shields.io/badge/Made%20with-%F0%9F%96%A4%20by%20SaberQadimi-blueviolet?style=flat-square)
+
 
 I'm a web developer :)
 
@@ -72,7 +74,7 @@ Coding: The art of improving programs and combining ideas in a better way
 
 
 </p>
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <table>
   <tr>
@@ -96,7 +98,4 @@ Coding: The art of improving programs and combining ideas in a better way
 <img src="https://github-profile-trophy.vercel.app/?username=SaberQadimi&theme=onedark&no-frame=false&no-bg=false&margin-w=10" />
 
 ---
-
-### 👁️‍🗨️ Profile Visitors:
-[![](https://visitcount.itsvg.in/api?id=SaberQadimi&icon=0&color=0)](https://visitcount.itsvg.in)
 
