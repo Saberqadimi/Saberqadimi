@@ -1,101 +1,128 @@
+# Saber Qadimi
 
-<div style="text-align:center">
-<p dir="auto"><a href="https://visitcount.itsvg.in" rel="nofollow">
- <img src="https://visitcount.itsvg.in/api?id=saberqadimi&amp;icon=5&amp;color=10" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=saberqadimi&amp;icon=5&amp;color=10" style="max-width: 100%;"></a></p>
-
-</div>
-<hr>
-<img src="https://i.giphy.com/media/12W5Sg2koWYnwA/giphy.webp" style="border-radius: 2pc;" alt="saberqadimi OverView">
-
-
-# About me
-
-![Profile Badge](https://img.shields.io/badge/Made%20with-%F0%9F%96%A4%20by%20SaberQadimi-blueviolet?style=flat-square)
-
-
-I'm a web developer :)
-
-Coding: The art of improving programs and combining ideas in a better way
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/256/php-icon.png" title="php" alt="php" width="40" height="40"/> 
-</a>
-
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="nodejs" alt="nodejs" width="40" height="40"/> 
-</a>
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/> 
-</a>
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/mysqlworkbench_103806.png" title="mysql" alt="mysql" width="40" height="40"/> 
-</a>
-
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/> 
-</a>
-
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-226015.png?f=webp" title="laravel" alt="laravel" width="40" height="40"/> 
-</a>
-
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://laravel-livewire.com/img/twitter.png" title="livewire" alt="livewire" width="40" height="40"/> 
-</a>
-
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/A/adonis-logo-56A7844207-seeklogo.com.png" title="adonisjs" alt="adonisjs" width="40" height="40"/> 
-</a>
-
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png" title="expressjs" alt="expressjs" width="40" height="40"/> 
-</a>
-
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="40" height="40"/> 
-</a>
-
-
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://nuxt.com/assets/design-kit/icon-green.svg" title="nuxtjs" alt="nuxtjs" width="40" height="40"/> 
-</a>
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREMG_tZiKdmmmTqO50-_sGfCj6fMGgb5uTA8ShYf3FKe48Cr6i8lch42d0TLMhlri3s2I&usqp=CAU" title="postman" alt="postman" width="40" height="40"/> 
-</a>
-
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" title="bootstrap" alt="bootstrap" width="40" height="40"/> 
-</a>
- <a href="#" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="html-css" alt="html-css" width="40" height="40"/> 
-</a>
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Senior+Backend+Developer;PHP+%7C+Laravel+Engineer;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 </p>
-## 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SaberQadimi&show_icons=true&theme=nightowl" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=SaberQadimi&theme=nightowl&hide_border=false" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/SaberQadimi">
+    <img src="https://img.shields.io/github/followers/SaberQadimi?label=Followers&style=for-the-badge&color=70A5FD" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SaberQadimi&style=for-the-badge&color=70A5FD" alt="Profile Views" />
+</p>
 
 ---
 
-### 🔝 Top Languages:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaberQadimi&layout=compact&theme=nightowl&hide=html,css&langs_count=6" />
+## 👨‍💻 About Me
+
+I'm a Backend Developer with 5+ years of professional experience building and maintaining production-ready applications.
+
+My main expertise is PHP and Laravel, with a strong interest in backend architecture, database optimization, scalable systems, and software engineering best practices.
+
+- 🚀 5+ years of professional PHP / Laravel experience
+- 🏗️ Experience across FinTech, E-commerce, SaaS, and real-time platforms
+- ⚙️ Focused on clean code, maintainable architecture, and performance
+- 🔍 Interested in system design, scalability, and distributed systems
+- 🧠 Always learning and improving my engineering skills
 
 ---
 
-### 🏆 GitHub Trophies:
-<img src="https://github-profile-trophy.vercel.app/?username=SaberQadimi&theme=onedark&no-frame=false&no-bg=false&margin-w=10" />
+## 🧰 Tech Stack & Skills
+
+### Backend Development
+
+| Technology | Proficiency |
+|---|---|
+| PHP | Advanced |
+| Laravel | Advanced |
+| RESTful API Development | Advanced |
+| JavaScript | Intermediate |
+| Livewire | Intermediate |
+
+### Databases & Search
+
+| Technology | Proficiency |
+|---|---|
+| MySQL | Intermediate |
+| PostgreSQL | Intermediate |
+| Redis | Intermediate |
+| Elasticsearch | Intermediate |
+
+### DevOps & Infrastructure
+
+| Technology | Proficiency |
+|---|---|
+| Docker | Familiar |
+| Linux | Familiar |
+| Nginx | Familiar |
+| Git | Intermediate |
+
+### Frontend & UI
+
+| Technology | Proficiency |
+|---|---|
+| HTML5 / CSS3 | Intermediate |
+| Bootstrap | Intermediate |
+| Tailwind CSS | Familiar |
 
 ---
 
+## 🛠️ Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,elasticsearch,js,livewire,html,css,bootstrap,tailwind,docker,linux,nginx,git&perline=8" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaberQadimi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=SaberQadimi&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaberQadimi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaberQadimi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaberQadimi/SaberQadimi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaberQadimi&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/SaberQadimi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/saber-qadimi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Great software is not just written. It is thoughtfully engineered."</i>
+</p>
